@@ -1,5 +1,6 @@
 ### Hi there, I'm Windooows 👋
+some things i do are:
+- coding 👨‍💻
+- play games 🎮
 
-## I'm a developer.
-- i play video games as well
-- i also code...
+and 1 goal is to create my first project.
